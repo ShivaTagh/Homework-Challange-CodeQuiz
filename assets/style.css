@@ -27,9 +27,9 @@ main {
     text-align: center;
     justify-content: center;
     flex: 0 0 0;
-    margin-left:400px;
-    margin-right:200px;
-    border: 2px solid blue;
+    margin-left:600px;
+    margin-right:600px;
+    border: 2px solid rgb(147, 147, 184);
     padding: 60px;
     width: 700px;
 }
