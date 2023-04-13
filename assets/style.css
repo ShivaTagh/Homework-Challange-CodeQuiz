@@ -59,17 +59,6 @@ li {
     margin-bottom: 10px;
 }
 
-li .highscore_page {
-    margin-bottom: 10px;
-    border: 2px solid rgb(110 74 103);
-    width: 200px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding: 5px;
-    background-color: violet;
-    margin-left: 190px;
-}
 
 /*display only the intro page and hide the rest sections*/
 .question_page, .submit_page, .highscore_page, #check_line {
