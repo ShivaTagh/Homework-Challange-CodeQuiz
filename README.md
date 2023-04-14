@@ -32,6 +32,7 @@ I created a quiz app by adding style , scripts and html files. For this assignme
 *  Sort function to sort score and ranking the highscore list
 *  Added event function to check the answer is correct or wrong
 *  Added event listeners to ctive the click events on a button
+*  Push the new score by adding local storage
 
 ### Languages
 * HTML
