@@ -30,8 +30,8 @@ THEN I can save my initials and score
 I created a quiz app by adding style , scripts and html files. For this assignment, I used: 
 *  Time interval functions to se the timer (setInterval and clearInterval)
 *  Sort function to sort score and ranking the highscore list
-*  Added event function to check the answer is correct or wrong
-*  Added event listeners to ctive the click events on a button
+*  Event function to check the answer is correct or wrong
+*  Event listeners to active the click events on a button
 *  Push the new score by adding local storage
 
 ### Languages
